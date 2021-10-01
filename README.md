@@ -1,1 +1,1 @@
-# SIC_Final_Project
+# Crop disease classification and detection
